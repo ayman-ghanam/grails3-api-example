@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+
+# Grails
+target/
+out/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Local config
+application-local.yml

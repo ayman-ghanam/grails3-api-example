@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: etf_poc_pg
+    environment:
+      POSTGRES_DB: etfpoc
+      POSTGRES_USER: etfpoc
+      POSTGRES_PASSWORD: etfpoc
+    ports:
+      - "5432:5432"
+    volumes:
+      - etf_poc_pg_data:/var/lib/postgresql/data
+
+volumes:
+  etf_poc_pg_data:
