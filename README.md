@@ -13,7 +13,7 @@ It also includes a **one-to-many domain relationship**:
 * `EtfListing` (parent)
 * `EtfPricePoint` (child)
 
-The backend database is **PostgreSQL**, typically run via Docker.
+The backend database for this sample project is **PostgreSQL**, typically run via Docker.
 
 ---
 
