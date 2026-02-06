@@ -24,5 +24,7 @@ Thumbs.db
 logs/
 *.log
 
+poc-grails3
+
 # Local config
 application-local.yml
