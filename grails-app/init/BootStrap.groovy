@@ -1,5 +1,5 @@
-import com.mackenzie.marketing.EtfListing
-import com.mackenzie.marketing.EtfPricePoint
+import poc.grails3.EtfListing
+import poc.grails3.EtfPricePoint
 
 class BootStrap {
 

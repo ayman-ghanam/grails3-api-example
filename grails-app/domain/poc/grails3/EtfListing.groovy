@@ -1,4 +1,4 @@
-package com.mackenzie.marketing
+package poc.grails3
 
 class EtfListing {
     String symbol

@@ -1,4 +1,4 @@
-package com.mackenzie.marketing
+package poc.grails3
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification

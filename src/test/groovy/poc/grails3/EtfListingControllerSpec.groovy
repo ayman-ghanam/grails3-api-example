@@ -1,6 +1,7 @@
-package com.mackenzie.marketing
+package poc.grails3
 
 import grails.test.mixin.TestFor
+import poc.grails3.EtfListingController
 import spock.lang.Specification
 
 /**
